@@ -1,4 +1,4 @@
-# Python wrapper for the [YOAS (Your Own Anti-Spam System) API](https://github.com/yourusername/YOAS-API)  
+# Python wrapper for the [YOAS (Your Own Anti-Spam System) API](https://github.com/Pashok111/YOAS-API)  
 Little project for managing spam-related text and comments.
 
 You can check this API at https://yourdomain.com/apis/yoas/docs
