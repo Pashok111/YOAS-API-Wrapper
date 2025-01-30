@@ -1,7 +1,7 @@
 # Python wrapper for the [YOAS (Your Own Anti-Spam System) API](https://github.com/Pashok111/YOAS-API)  
 Little project for managing spam-related text and comments.
 
-You can check this API at https://yourdomain.com/apis/yoas/docs
+You can check this API at https://pashok11.tw1.su/apis/yoas/docs
 ## How to use
 Just use pip: `pip install yoas_api_wrapper`
 ## Example
